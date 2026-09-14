@@ -4704,6 +4704,18 @@
     "lon": 1.457799474357203
   },
   {
+    "uai": "0310092G",
+    "name": "COLLEGE BELLEVUE",
+    "type": "college",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 121.5,
+    "year": "2025-2026",
+    "lat": 43.55649269524502,
+    "lon": 1.457799474357203
+  },
+  {
     "uai": "0310037X",
     "name": "COLLEGE CLEMENCE ISAURE",
     "type": "college",
@@ -4760,6 +4772,18 @@
     "commune": "Toulouse",
     "ips": 124.7,
     "year": "2024-2025",
+    "lat": 43.61240704760341,
+    "lon": 1.4149701048570695
+  },
+  {
+    "uai": "0311582B",
+    "name": "COLLEGE DES PONTS JUMEAUX",
+    "type": "college",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 128.7,
+    "year": "2025-2026",
     "lat": 43.61240704760341,
     "lon": 1.4149701048570695
   },
@@ -5460,6 +5484,18 @@
     "lon": 1.4567062209609283
   },
   {
+    "uai": "0311570N",
+    "name": "COLLEGE PRIVE LA PRAIRIE",
+    "type": "college",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 138.8,
+    "year": "2025-2026",
+    "lat": 43.57295187866739,
+    "lon": 1.4567062209609283
+  },
+  {
     "uai": "0311962P",
     "name": "COLLEGE PRIVE LE CAOUSOU",
     "type": "college",
@@ -5664,6 +5700,18 @@
     "lon": 1.4338533269548188
   },
   {
+    "uai": "0311171E",
+    "name": "COLLEGE PRIVE SAINT NICOLAS",
+    "type": "college",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 139.1,
+    "year": "2025-2026",
+    "lat": 43.59931937419616,
+    "lon": 1.4338533269548188
+  },
+  {
     "uai": "0311150G",
     "name": "COLLEGE PRIVE SAINT THOMAS D AQUIN",
     "type": "college",
@@ -5688,6 +5736,18 @@
     "lon": 1.4478400779131373
   },
   {
+    "uai": "0311150G",
+    "name": "COLLEGE PRIVE SAINT THOMAS D AQUIN",
+    "type": "college",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 139.1,
+    "year": "2025-2026",
+    "lat": 43.5968058989296,
+    "lon": 1.4478400779131373
+  },
+  {
     "uai": "0311144A",
     "name": "COLLEGE PRIVE SAINTE FAMILLE DES MINIMES",
     "type": "college",
@@ -5708,6 +5768,18 @@
     "commune": "Toulouse",
     "ips": 142.1,
     "year": "2024-2025",
+    "lat": 43.617516333115425,
+    "lon": 1.4351687238580355
+  },
+  {
+    "uai": "0311144A",
+    "name": "COLLEGE PRIVE SAINTE FAMILLE DES MINIMES",
+    "type": "college",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 142.4,
+    "year": "2025-2026",
     "lat": 43.617516333115425,
     "lon": 1.4351687238580355
   },
@@ -5768,6 +5840,18 @@
     "commune": "Toulouse",
     "ips": 126.0,
     "year": "2024-2025",
+    "lat": 43.608706283850054,
+    "lon": 1.4594463098504673
+  },
+  {
+    "uai": "0311148E",
+    "name": "COLLEGE PRIVE SAINTE MARIE DES URSULINES",
+    "type": "college",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 128.6,
+    "year": "2025-2026",
     "lat": 43.608706283850054,
     "lon": 1.4594463098504673
   },
@@ -6042,6 +6126,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 129.4,
+    "year": "2023-2024",
+    "lat": 43.612017766029496,
+    "lon": 1.4490498043775477
+  },
+  {
+    "uai": "0310993L",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE BAYARD MATABIAU",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 129.5,
     "year": "2024-2025",
     "lat": 43.612017766029496,
@@ -6162,6 +6258,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 82.6,
+    "year": "2022-2023",
+    "lat": 43.564719924499784,
+    "lon": 1.4118697154839732
+  },
+  {
+    "uai": "0312227C",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE BUFFON",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 81.8,
     "year": "2023-2024",
     "lat": 43.564719924499784,
@@ -6214,6 +6322,18 @@
     "year": "2024-2025",
     "lat": 43.597759252767545,
     "lon": 1.4548700464233564
+  },
+  {
+    "uai": "0312111B",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE CHATEAU D ANCELY",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 98.7,
+    "year": "2022-2023",
+    "lat": 43.61853482261093,
+    "lon": 1.3986400521216718
   },
   {
     "uai": "0312111B",
@@ -6390,6 +6510,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 102.1,
+    "year": "2022-2023",
+    "lat": 43.638406865562665,
+    "lon": 1.4620200995206662
+  },
+  {
+    "uai": "0310970L",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE CUVIER",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 100.4,
     "year": "2023-2024",
     "lat": 43.638406865562665,
@@ -6406,6 +6538,18 @@
     "year": "2024-2025",
     "lat": 43.638406865562665,
     "lon": 1.4620200995206662
+  },
+  {
+    "uai": "0311604A",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE DANIEL FAUCHER",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 71.7,
+    "year": "2022-2023",
+    "lat": 43.57312182848635,
+    "lon": 1.4056798829482506
   },
   {
     "uai": "0311604A",
@@ -6714,6 +6858,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 106.9,
+    "year": "2022-2023",
+    "lat": 43.60074520144751,
+    "lon": 1.4164303200900012
+  },
+  {
+    "uai": "0311015K",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE FONTAINE BAYONNE",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 107.9,
     "year": "2023-2024",
     "lat": 43.60074520144751,
@@ -6858,6 +7014,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 74.9,
+    "year": "2023-2024",
+    "lat": 43.57907804429154,
+    "lon": 1.410069897880824
+  },
+  {
+    "uai": "0310987E",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE GEORGES HYON",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 71.3,
     "year": "2024-2025",
     "lat": 43.57907804429154,
@@ -6872,6 +7040,18 @@
     "commune": "Toulouse",
     "ips": 96.2,
     "year": "2022-2023",
+    "lat": 43.648922356176655,
+    "lon": 1.4494345748045336
+  },
+  {
+    "uai": "0310975S",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE GRAND SELVE",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 96.1,
+    "year": "2023-2024",
     "lat": 43.648922356176655,
     "lon": 1.4494345748045336
   },
@@ -7206,6 +7386,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 108.4,
+    "year": "2022-2023",
+    "lat": 43.61735205961893,
+    "lon": 1.471109394069272
+  },
+  {
+    "uai": "0312156A",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE LA JUNCASSE",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 108.0,
     "year": "2023-2024",
     "lat": 43.61735205961893,
@@ -7302,6 +7494,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 143.9,
+    "year": "2022-2023",
+    "lat": 43.60255367485231,
+    "lon": 1.439100045120136
+  },
+  {
+    "uai": "0312292Y",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE LAKANAL",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 144.8,
     "year": "2023-2024",
     "lat": 43.60255367485231,
@@ -7390,6 +7594,18 @@
     "year": "2024-2025",
     "lat": 43.62836973597338,
     "lon": 1.460880588911495
+  },
+  {
+    "uai": "0312293Z",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE LARDENNE",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 110.9,
+    "year": "2022-2023",
+    "lat": 43.588724401948205,
+    "lon": 1.37810950987054
   },
   {
     "uai": "0312293Z",
@@ -7530,6 +7746,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 106.9,
+    "year": "2022-2023",
+    "lat": 43.603718322147174,
+    "lon": 1.4091406113612275
+  },
+  {
+    "uai": "0311601X",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE LES GAIS PINSONS",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 109.5,
     "year": "2023-2024",
     "lat": 43.603718322147174,
@@ -7546,6 +7774,18 @@
     "year": "2024-2025",
     "lat": 43.603718322147174,
     "lon": 1.4091406113612275
+  },
+  {
+    "uai": "0311024V",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE LES OUSTALOUS",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 105.2,
+    "year": "2022-2023",
+    "lat": 43.574761055890356,
+    "lon": 1.4242694616074525
   },
   {
     "uai": "0312679U",
@@ -7950,6 +8190,18 @@
     "sector": "Public",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 121.6,
+    "year": "2022-2023",
+    "lat": 43.59339282820351,
+    "lon": 1.4310780717936866
+  },
+  {
+    "uai": "0312078R",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE MOLIERE",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 124.2,
     "year": "2023-2024",
     "lat": 43.59339282820351,
@@ -8038,6 +8290,18 @@
     "year": "2024-2025",
     "lat": 43.61086096474927,
     "lon": 1.441099725269297
+  },
+  {
+    "uai": "0312542V",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE PAPUS",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 74.0,
+    "year": "2022-2023",
+    "lat": 43.57544742821883,
+    "lon": 1.4128800453432464
   },
   {
     "uai": "0312542V",
@@ -8144,6 +8408,18 @@
     "commune": "Toulouse",
     "ips": 71.2,
     "year": "2022-2023",
+    "lat": 43.56058921643322,
+    "lon": 1.3996696177473373
+  },
+  {
+    "uai": "0311305A",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE PAUL DOTTIN",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 71.8,
+    "year": "2023-2024",
     "lat": 43.56058921643322,
     "lon": 1.3996696177473373
   },
@@ -8264,6 +8540,18 @@
     "commune": "Toulouse",
     "ips": 102.1,
     "year": "2022-2023",
+    "lat": 43.58054337420966,
+    "lon": 1.4623995125939244
+  },
+  {
+    "uai": "0311006A",
+    "name": "ECOLE ELEMENTAIRE PUBLIQUE SAUZELONG",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 104.6,
+    "year": "2023-2024",
     "lat": 43.58054337420966,
     "lon": 1.4623995125939244
   },
@@ -8610,6 +8898,18 @@
     "sector": "Privé",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 139.0,
+    "year": "2022-2023",
+    "lat": 43.597819253654805,
+    "lon": 1.4414305187569254
+  },
+  {
+    "uai": "0312485H",
+    "name": "ECOLE PRIMAIRE PRIVEE ESCOLA CALENTRETA DE GARONETA",
+    "type": "elementaire",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 142.4,
     "year": "2023-2024",
     "lat": 43.597819253654805,
@@ -8754,6 +9054,18 @@
     "sector": "Privé",
     "commune_code": "31555",
     "commune": "Toulouse",
+    "ips": 140.8,
+    "year": "2023-2024",
+    "lat": 43.57295193141969,
+    "lon": 1.456709932792622
+  },
+  {
+    "uai": "0311488Z",
+    "name": "ECOLE PRIMAIRE PRIVEE LA PRAIRIE",
+    "type": "elementaire",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
     "ips": 138.8,
     "year": "2024-2025",
     "lat": 43.57295193141969,
@@ -8768,6 +9080,18 @@
     "commune": "Toulouse",
     "ips": 143.4,
     "year": "2022-2023",
+    "lat": 43.601044442858644,
+    "lon": 1.4610501326342162
+  },
+  {
+    "uai": "0311474J",
+    "name": "ECOLE PRIMAIRE PRIVEE LE CAOUSOU",
+    "type": "elementaire",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 145.6,
+    "year": "2023-2024",
     "lat": 43.601044442858644,
     "lon": 1.4610501326342162
   },
@@ -8818,6 +9142,30 @@
     "year": "2024-2025",
     "lat": 43.59067983955326,
     "lon": 1.4475105192474165
+  },
+  {
+    "uai": "0311422C",
+    "name": "ECOLE PRIMAIRE PRIVEE NOTRE DAME DES ANGES",
+    "type": "elementaire",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 133.6,
+    "year": "2022-2023",
+    "lat": 43.54760498835964,
+    "lon": 1.4556305522448925
+  },
+  {
+    "uai": "0311422C",
+    "name": "ECOLE PRIMAIRE PRIVEE NOTRE DAME DES ANGES",
+    "type": "elementaire",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 135.3,
+    "year": "2023-2024",
+    "lat": 43.54760498835964,
+    "lon": 1.4556305522448925
   },
   {
     "uai": "0311422C",
@@ -8912,6 +9260,18 @@
     "commune": "Toulouse",
     "ips": 142.4,
     "year": "2022-2023",
+    "lat": 43.593292101689045,
+    "lon": 1.4740410642717956
+  },
+  {
+    "uai": "0311491C",
+    "name": "ECOLE PRIMAIRE PRIVEE SAINT JOSEPH LA SALLE",
+    "type": "elementaire",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 145.4,
+    "year": "2023-2024",
     "lat": 43.593292101689045,
     "lon": 1.4740410642717956
   },
@@ -9142,6 +9502,18 @@
     "year": "2024-2025",
     "lat": 43.64261995595885,
     "lon": 1.4574098393552621
+  },
+  {
+    "uai": "0311495G",
+    "name": "ECOLE PRIMAIRE PRIVEE SAINTE MARIE DE NEVERS",
+    "type": "elementaire",
+    "sector": "Privé",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 121.9,
+    "year": "2022-2023",
+    "lat": 43.609331609774856,
+    "lon": 1.4432096440041036
   },
   {
     "uai": "0311495G",
@@ -9492,6 +9864,18 @@
     "lon": 1.4354197491489133
   },
   {
+    "uai": "0313131K",
+    "name": "ECOLE PRIMAIRE PUBLIQUE EMILIE DU CHATELET",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": null,
+    "year": "2024-2025",
+    "lat": 43.59099986523695,
+    "lon": 1.3681014903089366
+  },
+  {
     "uai": "0310916C",
     "name": "ECOLE PRIMAIRE PUBLIQUE FALGUIERE",
     "type": "elementaire",
@@ -9502,6 +9886,18 @@
     "year": "2024-2025",
     "lat": 43.60744514784374,
     "lon": 1.430000212518502
+  },
+  {
+    "uai": "0312921G",
+    "name": "ECOLE PRIMAIRE PUBLIQUE GENEVIEVE DE GAULLE ANTHONIOZ",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 92.4,
+    "year": "2022-2023",
+    "lat": 43.600507097619634,
+    "lon": 1.4061176505136046
   },
   {
     "uai": "0312921G",
@@ -9742,6 +10138,18 @@
     "year": "2024-2025",
     "lat": 43.6400257262731,
     "lon": 1.4500320483205769
+  },
+  {
+    "uai": "0312722R",
+    "name": "ECOLE PRIMAIRE PUBLIQUE OLYMPE DE GOUGES",
+    "type": "elementaire",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": 91.5,
+    "year": "2022-2023",
+    "lat": 43.654516093000474,
+    "lon": 1.4396497623937492
   },
   {
     "uai": "0312722R",
@@ -11734,6 +12142,18 @@
     "year": "",
     "lat": 43.5892129157061,
     "lon": 1.3782195158137964
+  },
+  {
+    "uai": "0311124D",
+    "name": "Ecole maternelle publique Les pinhous",
+    "type": "maternelle",
+    "sector": "Public",
+    "commune_code": "31555",
+    "commune": "Toulouse",
+    "ips": null,
+    "year": "",
+    "lat": 43.560917067232126,
+    "lon": 1.3979799426900497
   },
   {
     "uai": "0312032R",
